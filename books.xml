@@ -1,0 +1,28 @@
+<library>
+    <book id="bk101">
+        <title>The Great Gatsby</title>
+        <genre>Fiction</genre>
+        <published_year>1925</published_year>
+        <author>
+            <first_name>F. Scott</first_name>
+            <lastname>Fitzgerald</last_name>
+        </author>
+    </book>
+    <book id="bk102">
+        <title>To Kill a Mockingbird</title>
+        <genre>Fiction</genre>
+        <author>
+            <first_name>Harper</first_name>
+            <last_name>Lee</last_name>
+        </author>
+    </book>
+    <book id="bk103">
+        <title>A Brief History of Time</title>
+        <genre>Non-Fiction</genre>
+        <published_year>1988</published_year>
+        <author>
+            <first_name>Stephen</first_name>
+            <last_name>Hawking</last_name>
+        </author>
+    </book>
+</library>

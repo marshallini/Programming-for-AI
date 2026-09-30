@@ -1,0 +1,20 @@
+<university>
+    <course code="CS101">
+        <title>Introduction to Python</title>
+        <details>
+            <level>Beginner</level>
+            <instructor>
+            <name>Dr. Ada Lovelace</name>
+            </instructor>
+        </details>
+    </course>
+    <course code="MA203">
+        <title>Linear Algebra</title>
+        <details>
+            <level>Intermediate</level>
+            <instructor>
+            <name>Dr. Alan Turing</name>
+            </instructor>
+        </details>
+    </course>
+</university>
